@@ -52,7 +52,6 @@ _Silently watching. Always executing._
 ```bash
 git clone https://github.com/cyberghosts02/ghosts-osint.git
 cd ghosts-osint
-pip3 install -r requirements.txt
 chmod +x ghosts-osint.py
 python3 ghosts-osint.py
 ```
